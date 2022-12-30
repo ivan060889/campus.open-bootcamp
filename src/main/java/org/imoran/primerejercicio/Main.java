@@ -6,7 +6,10 @@ public class Main {
         String nombre = "moran";
         boolean x = true;
         char c= 'x';
-        System.out.println("tipo de dato int " +numero +   "tipo de dato String  " + nombre + " boolean"+ x+ " char" + c);
+        System.out.println("tipo de dato int " +numero);
+        System.out.println("tipo de dato String  " + nombre);
+        System.out.println("boolean"+ x) ;
+        System.out.println(" char" + c);
 
     }
 }
